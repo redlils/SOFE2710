@@ -20,7 +20,8 @@ semester at Ontario Tech University.
 This repository is laid out in the following way:
 ```
 <repository root>
-|-.idea (IntelliJ configuration folder)
+|- .github
+|- .idea (IntelliJ configuration folder)
 |- assignments
    |- assignment1
    |- assignment2
