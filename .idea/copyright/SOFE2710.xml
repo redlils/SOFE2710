@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year. The contents of this file were written solely by Lily&#10;Redpath for the Fall 2024 SOFE2710 course at Ontario Tech University unless&#10;otherwise specified. Original code can be found in the GitHub repository&#10;redlils/sofe2710. If this code was submitted as original work by any person&#10;other than Lily Redpath, it has most likely been stolen. Any code written by&#10;other persons will be credited in-place with a comment and the @author&#10;JavaDoc tag if applicable." />
+    <option name="myName" value="SOFE2710" />
+  </copyright>
+</component>
